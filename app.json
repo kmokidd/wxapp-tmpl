@@ -1,0 +1,11 @@
+{
+  "pages": [
+  ],
+  "window": {
+    "navigationBarTitleText": "小程序名",
+    "navigationBarBackgroundColor": "#1e1e1e",
+    "navigationBarTextStyle": "white",
+    "backgroundTextStyle": "dark",
+    "backgroundColor":"#202020"
+  }
+}
