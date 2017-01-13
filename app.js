@@ -1,5 +1,5 @@
-var utils = require('./utils/util.js');
-var Deferred = utils.Deferred;
+var util = require('./utils/util.js');
+var Deferred = util.Deferred;
 
 App({
   onLaunch: function () {

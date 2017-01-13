@@ -1,3 +1,6 @@
 module.exports = {
-  uiGeneral: {}
+  uiGeneral: {
+    show: 'show',
+    hide: 'hide'
+  }
 }

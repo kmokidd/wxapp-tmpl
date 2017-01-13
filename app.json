@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/index/index"
   ],
   "window": {
     "navigationBarTitleText": "小程序名",
